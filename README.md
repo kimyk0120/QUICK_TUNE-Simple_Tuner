@@ -24,7 +24,7 @@ Whether you're playing guitar, violin, ukulele, or any other instrument, Quick T
 
 ### 🌈 Screenshots
   
-![KakaoTalk_Photo_2025-06-03-20-45-25 001.jpeg](KakaoTalk_Photo_2025-06-03-20-45-25 001.jpeg)
+![KakaoTalk_Photo_2025-06-03-20-45-25 001.jpeg](img/1.jpeg)
 
 ![KakaoTalk_Photo_2025-06-03-20-45-26 002.jpeg](QUICK%20TUNE%20Simple%20&%20Precise%20Tuner%20for%20Everyone%20(IO%2020eb87d10c7c806b8190fc02e71efef8/KakaoTalk_Photo_2025-06-03-20-45-26_002.jpeg)
 
