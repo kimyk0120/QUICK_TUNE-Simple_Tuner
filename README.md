@@ -24,7 +24,7 @@ Whether you're playing guitar, violin, ukulele, or any other instrument, Quick T
 
 ### 🌈 Screenshots
   
-![4](img/4.jpeg)
+![4](img/4.png)
 
 
 Quick Tune is built with musicians in mind — especially those who value clarity, precision, and simplicity.
