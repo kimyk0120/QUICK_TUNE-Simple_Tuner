@@ -1,4 +1,4 @@
-# QUICK TUNE | Simple & Precise Tuner for Everyone (IOS APP)
+# QUICK TUNE | Simple & Precise Tuner for Everyone 
 
 ### 🎶 Just Play. We'll Tune.
 
