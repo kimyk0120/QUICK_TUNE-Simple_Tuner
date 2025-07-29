@@ -5,6 +5,7 @@
 **Quick Tune** helps you tune your instrument accurately — anytime, anywhere. Fast, intuitive, and beautiful. Perfect for beginners and pros alike.
 
 👉 [Download on the App Store](https://apps.apple.com/app/6746946612)
+👉 [Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.quick.quick_tune)
 
 ### 🔍 What is Quick Tune?
 
